@@ -1,2 +1,2 @@
-# Inverse-Reinforcement-Learning
-A curated list of Inverse Reinforcement Learning papers and research materials.
+# Inverse Reinforcement Learning
+A curated list of Inverse Reinforcement Learning (IRL) papers and research materials.
